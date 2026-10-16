@@ -1,0 +1,29 @@
+{
+ "schema": "curb.sharing.status/1",
+ "role": "standby",
+ "holder": "gha-38975405082-1",
+ "heartbeatAt": 1792189439,
+ "ok": true,
+ "lastOkAt": 1792189439,
+ "failingSince": null,
+ "actions": [],
+ "notes": [
+  "no primary heartbeat at all; standby acts"
+ ],
+ "errors": [],
+ "latest": "52700029",
+ "safe": "52699975",
+ "frozen": false,
+ "distributors": 0,
+ "keys": {
+  "publisher": {
+   "address": "0x981228c17c63ce1ba18ede0e2d660afc281eefc0",
+   "balanceWei": "1500000000000000"
+  },
+  "pusher": {
+   "address": "0x0a9a8ff7eea07f775252dd975c9e24c4e932b112",
+   "balanceWei": "1500000000000000"
+  }
+ },
+ "launches": []
+}
