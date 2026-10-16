@@ -1,0 +1,21 @@
+{
+ "schema": "curb.sharing.status/1",
+ "role": "guardian",
+ "holder": "036b36ee6a87-7",
+ "heartbeatAt": 1792166997,
+ "ok": false,
+ "lastOkAt": null,
+ "failingSince": 1792166997,
+ "guardian": "0xfe56bd7e9ef85106a62b958053ee2bd44681cca3",
+ "chainId": "8453",
+ "distributorFactory": "0x3ebccb246ba77d21a8a1f084caf590c74fbc63b8",
+ "balanceWei": null,
+ "checked": 0,
+ "vetoed": 0,
+ "owed": 0,
+ "passMs": 8802,
+ "errors": [
+  "LogWindowError: eth_getLogs refused 5 times in a row: invalid params"
+ ],
+ "signature": "0x0408d77f244ddb19ee0b788694e528227b4a17dc1f8b4eb036375e4e43d093f20027e550509478a82c3851f884ccfe757d90ba1ce14d0f356aa4739f182e70a11c"
+}
