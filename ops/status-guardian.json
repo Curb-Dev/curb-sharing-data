@@ -2,20 +2,18 @@
  "schema": "curb.sharing.status/1",
  "role": "guardian",
  "holder": "b83c9cc02d76-7",
- "heartbeatAt": 1792241485,
- "ok": false,
- "lastOkAt": 1792241407,
- "failingSince": 1792241485,
+ "heartbeatAt": 1792241530,
+ "ok": true,
+ "lastOkAt": 1792241530,
+ "failingSince": null,
  "guardian": "0xfe56bd7e9ef85106a62b958053ee2bd44681cca3",
  "chainId": "8453",
  "distributorFactory": "0x3ebccb246ba77d21a8a1f084caf590c74fbc63b8",
- "balanceWei": null,
+ "balanceWei": "1500000000000000",
  "checked": 0,
  "vetoed": 0,
  "owed": 0,
- "passMs": 21138,
- "errors": [
-  "LogWindowError: eth_getLogs refused 5 times in a row: Request timeout on the free plan, please upgrade to paid plan"
- ],
- "signature": "0xa51cadc80392dbf97fe413bdb923c5e1c9bdf581c7d5fdd32fb9da9f4dd1b3c349f49ba72218f32449b4ea721a1bf3aca37d8fb7befce8b9438b59751113056f1c"
+ "passMs": 5766,
+ "errors": [],
+ "signature": "0x2009beb5a29a0266273a40de745358d7be5e05367a7a1841075330232b30497732089d47fe5a0343748bf25ffb2902e11be999b5826bf76e531d749bcb9183ab1b"
 }
