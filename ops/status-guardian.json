@@ -2,18 +2,20 @@
  "schema": "curb.sharing.status/1",
  "role": "guardian",
  "holder": "b83c9cc02d76-7",
- "heartbeatAt": 1792240807,
- "ok": true,
- "lastOkAt": 1792240807,
- "failingSince": null,
+ "heartbeatAt": 1792241485,
+ "ok": false,
+ "lastOkAt": 1792241407,
+ "failingSince": 1792241485,
  "guardian": "0xfe56bd7e9ef85106a62b958053ee2bd44681cca3",
  "chainId": "8453",
  "distributorFactory": "0x3ebccb246ba77d21a8a1f084caf590c74fbc63b8",
- "balanceWei": "1500000000000000",
+ "balanceWei": null,
  "checked": 0,
  "vetoed": 0,
  "owed": 0,
- "passMs": 3540,
- "errors": [],
- "signature": "0xc910aa5e3e783935b6685f1469c779c2076b690c4f007a7fbc7ac16b99459aef1b995a2a2a8d6cb988e4724032ef4d0e3aa6c600df82a4d6f4f80ffa6401403a1b"
+ "passMs": 21138,
+ "errors": [
+  "LogWindowError: eth_getLogs refused 5 times in a row: Request timeout on the free plan, please upgrade to paid plan"
+ ],
+ "signature": "0xa51cadc80392dbf97fe413bdb923c5e1c9bdf581c7d5fdd32fb9da9f4dd1b3c349f49ba72218f32449b4ea721a1bf3aca37d8fb7befce8b9438b59751113056f1c"
 }
