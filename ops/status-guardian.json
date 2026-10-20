@@ -2,18 +2,20 @@
  "schema": "curb.sharing.status/1",
  "role": "guardian",
  "holder": "b83c9cc02d76-7",
- "heartbeatAt": 1792344083,
- "ok": true,
- "lastOkAt": 1792344083,
- "failingSince": null,
+ "heartbeatAt": 1792532213,
+ "ok": false,
+ "lastOkAt": 1792344863,
+ "failingSince": 1792344952,
  "guardian": "0xfe56bd7e9ef85106a62b958053ee2bd44681cca3",
  "chainId": "8453",
  "distributorFactory": "0x3ebccb246ba77d21a8a1f084caf590c74fbc63b8",
- "balanceWei": "1500000000000000",
+ "balanceWei": null,
  "checked": 0,
  "vetoed": 0,
  "owed": 0,
- "passMs": 3468,
- "errors": [],
- "signature": "0x787bdf7c0c79a4c6c202581c8b2d320baaa85c0d703839c4054707ec3e268bd3157f725c32e603c8ddeaba076c2a2bec5dc82eebb565336b4466c7e657d6f5561c"
+ "passMs": 51720,
+ "errors": [
+  "LogWindowError: eth_getLogs refused 5 times in a row: You reached free plan rate limit, please upgrade to paid plan"
+ ],
+ "signature": "0x4f3af54c731f7dcbd483adf75a566092310354bf5e58f48f5f2f8ec1eef3f73556d22d86265b095a9932aa1755cdb606d8dc22543ec59c723133fc706e0b5fff1c"
 }
