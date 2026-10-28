@@ -2,7 +2,7 @@
  "schema": "curb.sharing.status/1",
  "role": "guardian",
  "holder": "b83c9cc02d76-7",
- "heartbeatAt": 1793172172,
+ "heartbeatAt": 1793173074,
  "ok": false,
  "lastOkAt": 1792344863,
  "failingSince": 1792344952,
@@ -13,9 +13,9 @@
  "checked": 0,
  "vetoed": 0,
  "owed": 0,
- "passMs": 35713,
+ "passMs": 37617,
  "errors": [
   "LogWindowError: eth_getLogs refused 5 times in a row: You reached free plan rate limit, please upgrade to paid plan"
  ],
- "signature": "0x0f0990649253519bee92cf22796352be4f8fa54007f5122d9fa3a851c84d232b7dcd46e0de5c60c2a08ffb2a7407f781b3e67a0b3f405158305cbda3bdc2f4251b"
+ "signature": "0xff9ad42afa242a363ffa7776d725e590059b6e396d9f7fd74e7f7bfbcf1f5b4b63e1cd4b11e2f104890adc2ec109b7f8a88123d681d76a16259c855022ca0ca51b"
 }
