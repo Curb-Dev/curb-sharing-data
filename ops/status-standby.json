@@ -1,18 +1,18 @@
 {
  "schema": "curb.sharing.status/1",
  "role": "standby",
- "holder": "gha-40929092035-1",
- "heartbeatAt": 1793297755,
+ "holder": "gha-40939642915-1",
+ "heartbeatAt": 1793301830,
  "ok": true,
- "lastOkAt": 1793297755,
+ "lastOkAt": 1793301830,
  "failingSince": null,
  "actions": [],
  "notes": [
   "no primary heartbeat at all; standby acts"
  ],
  "errors": [],
- "latest": "53254201",
- "safe": "53254158",
+ "latest": "53256238",
+ "safe": "53256183",
  "frozen": false,
  "distributors": 0,
  "keys": {
