@@ -2,7 +2,7 @@
  "schema": "curb.sharing.status/1",
  "role": "guardian",
  "holder": "b83c9cc02d76-7",
- "heartbeatAt": 1793318099,
+ "heartbeatAt": 1793318999,
  "ok": false,
  "lastOkAt": 1792344863,
  "failingSince": 1792344952,
@@ -13,9 +13,9 @@
  "checked": 0,
  "vetoed": 0,
  "owed": 0,
- "passMs": 8222,
+ "passMs": 8226,
  "errors": [
   "RpcError: You reached free plan rate limit, please upgrade to paid plan"
  ],
- "signature": "0xad58deea3682e6910050628097ed245d5ab2be409329874c604d868ef6711e21781e4f38e98669ff571d6f09e527396e4d41ee06eb2730a0723afceb49852d2c1c"
+ "signature": "0x8a15845b7a2ba69ee3839a84f97a14261d1094470091e1ec4565517e114dfce035f672b1a353a061d6243e84d00bb2ac09a033052d7b4dc026310454832dd4041c"
 }
