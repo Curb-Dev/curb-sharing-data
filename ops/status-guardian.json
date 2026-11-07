@@ -2,7 +2,7 @@
  "schema": "curb.sharing.status/1",
  "role": "guardian",
  "holder": "716cdad3b707-7",
- "heartbeatAt": 1794034555,
+ "heartbeatAt": 1794035474,
  "ok": false,
  "lastOkAt": 1792344863,
  "failingSince": 1792344952,
@@ -13,9 +13,9 @@
  "checked": 0,
  "vetoed": 0,
  "owed": 0,
- "passMs": 304417,
+ "passMs": 304946,
  "errors": [
-  "history scans behind the safe head 54219033: the role events through 53267660 (951373 blocks left), the bound distributors on provider a through 52682670 (1536363 blocks left), the bound distributors on provider b through 52682670 (1536363 blocks left); the next pass reads on from there"
+  "history scans behind the safe head 54223347: the bound distributors on provider a through 53722670 (500677 blocks left), the bound distributors on provider b through 52712670 (1510677 blocks left); the next pass reads on from there"
  ],
- "signature": "0xb3b584adf4075e62a9581b10f805c4d1128d46454fa3f9dd848fe353132ac6f05e91c32d8c3b5616b700afb418740af4db1d7d18b2c8510492cd326e4d9298001c"
+ "signature": "0xbf46c524958a6ffd78ce0038950450292f526007d0987ff4e34fcc8e42aa3d5b1817e6f4c1228e263edbeb6988d1ed157fbdbb2be334ea0b5660bf676faf57a01c"
 }
