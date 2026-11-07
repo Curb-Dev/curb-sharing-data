@@ -1,21 +1,21 @@
 {
  "schema": "curb.sharing.status/1",
  "role": "guardian",
- "holder": "b83c9cc02d76-7",
- "heartbeatAt": 1794033572,
+ "holder": "716cdad3b707-7",
+ "heartbeatAt": 1794034555,
  "ok": false,
  "lastOkAt": 1792344863,
  "failingSince": 1792344952,
  "guardian": "0xfe56bd7e9ef85106a62b958053ee2bd44681cca3",
  "chainId": "8453",
  "distributorFactory": "0x3ebccb246ba77d21a8a1f084caf590c74fbc63b8",
- "balanceWei": null,
+ "balanceWei": "1500000000000000",
  "checked": 0,
  "vetoed": 0,
  "owed": 0,
- "passMs": 37110,
+ "passMs": 304417,
  "errors": [
-  "LogWindowError: eth_getLogs refused 5 times in a row: You reached free plan rate limit, please upgrade to paid plan"
+  "history scans behind the safe head 54219033: the role events through 53267660 (951373 blocks left), the bound distributors on provider a through 52682670 (1536363 blocks left), the bound distributors on provider b through 52682670 (1536363 blocks left); the next pass reads on from there"
  ],
- "signature": "0x3f5888e2577a4774d4cf5f8cff1a31f830dff7a267bd2be9d31f781242ac4fa017f57dbd03c8905cef82b6de5233e6caf95112dab1c1380288d9b629dbb7e2e71c"
+ "signature": "0xb3b584adf4075e62a9581b10f805c4d1128d46454fa3f9dd848fe353132ac6f05e91c32d8c3b5616b700afb418740af4db1d7d18b2c8510492cd326e4d9298001c"
 }
