@@ -2,10 +2,10 @@
  "schema": "curb.sharing.status/1",
  "role": "guardian",
  "holder": "716cdad3b707-7",
- "heartbeatAt": 1794035474,
- "ok": false,
- "lastOkAt": 1792344863,
- "failingSince": 1792344952,
+ "heartbeatAt": 1794035635,
+ "ok": true,
+ "lastOkAt": 1794035635,
+ "failingSince": null,
  "guardian": "0xfe56bd7e9ef85106a62b958053ee2bd44681cca3",
  "chainId": "8453",
  "distributorFactory": "0x3ebccb246ba77d21a8a1f084caf590c74fbc63b8",
@@ -13,9 +13,7 @@
  "checked": 0,
  "vetoed": 0,
  "owed": 0,
- "passMs": 304946,
- "errors": [
-  "history scans behind the safe head 54223347: the bound distributors on provider a through 53722670 (500677 blocks left), the bound distributors on provider b through 52712670 (1510677 blocks left); the next pass reads on from there"
- ],
- "signature": "0xbf46c524958a6ffd78ce0038950450292f526007d0987ff4e34fcc8e42aa3d5b1817e6f4c1228e263edbeb6988d1ed157fbdbb2be334ea0b5660bf676faf57a01c"
+ "passMs": 159510,
+ "errors": [],
+ "signature": "0x3c43a4e626f3748abee59311acaa2cdc454fa867af667b0cfc2133bcb29c6d1311e61cf61840cbbfb795f8061c5ecbce7a3b8994ace57b122284d9a746e86bf01c"
 }
