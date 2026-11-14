@@ -2,9 +2,9 @@
  "schema": "curb.sharing.status/1",
  "role": "guardian",
  "holder": "6a3b6dfebe42-7",
- "heartbeatAt": 1794672175,
+ "heartbeatAt": 1794673136,
  "ok": true,
- "lastOkAt": 1794672175,
+ "lastOkAt": 1794673136,
  "failingSince": null,
  "guardian": "0xfe56bd7e9ef85106a62b958053ee2bd44681cca3",
  "chainId": "8453",
@@ -13,7 +13,7 @@
  "checked": 0,
  "vetoed": 0,
  "owed": 0,
- "passMs": 3737,
+ "passMs": 4485,
  "errors": [],
- "signature": "0x1185872a99f6825a9b376842054abd18d19b8846c410bf0300f6722156f081da355109b35732cbec146b49be6dc1a1d07b41e6815d3276fad2f192c68b7ceab51b"
+ "signature": "0x805beb93bee3fb1d647298fc05c2fc731a88eab3952fa3cd1cee33b85a3615b63e7d4b882d6a4d2bdc2e5968e6aeda742f7d7b39977449420b2508af231a414f1c"
 }
